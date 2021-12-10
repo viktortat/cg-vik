@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Stephen Walsh",
+  "classifications": [
+    "Clean Architecture",
+    "Clean",
+    "GraphQL",
+    "API",
+    "Dotnet",
+    "Docker"
+  ],
+  "identity": "CleanGraphQLApi.Template",
+  "name": "Clean GraphQL API Template",
+  "shortName": "cleangraphqlapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CleanGraphQLApi",
+  "preferNameDirectory": true,
+  "symbols": {
+    "author": {
+      "type": "parameter",
+      "displayName": "The name of the author of the solution.",
+      "defaultValue": "Stephen Walsh",
+      "replaces": "Stephen Walsh"
+    }
+  }
+}
